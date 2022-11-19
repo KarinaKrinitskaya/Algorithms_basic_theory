@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Krinitskaya_C_sharp", "Krinitskaya_C_sharp\Krinitskaya_C_sharp.csproj", "{A46026B4-5958-47D5-A4BC-1C27090C57E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A46026B4-5958-47D5-A4BC-1C27090C57E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A46026B4-5958-47D5-A4BC-1C27090C57E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A46026B4-5958-47D5-A4BC-1C27090C57E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A46026B4-5958-47D5-A4BC-1C27090C57E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B1DE068-B93E-4407-93FF-75CA7C1A84BB}
+	EndGlobalSection
+EndGlobal
